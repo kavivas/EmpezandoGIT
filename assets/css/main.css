@@ -2853,3 +2853,11 @@ body.is-menu-visible #menu {
   position: relative;
   text-align: center;
   width: 100%
+  }
+
+  #NuevoSection
+  {
+    height: 50%;
+    width: 100%;
+    background-color: green;
+  }
